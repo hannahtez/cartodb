@@ -18,6 +18,16 @@ result for your data.
 If you click on the Wizard's tab, you will see that in tutorial one we were 
 working with the "simple" wizard.
 
+Simple Maps
+===========
+
+The title doesn't lie, these types of maps are very simple. If you want a basic design, easy to read and quick to edit and format, this is the map you would choose. 
+
+Below, there is an example of a simple map. It shows every public internet access spot in Victoria.
+
+..image :: imgs/victoria_internet_access.png
+
+
 Cluster Maps
 ============
 
@@ -57,7 +67,7 @@ which is scientifical parlance for "with or without eggs". As the researcher
 Caleb Gardner from the University of Tasmania explains
 
 
-    n=not berried (not carrying eggs beneath their tails).  y = berried.  All the other variants of berried state = y relate to the state of the eggs.  For example ye = berried eyed = the eyes of the larvae are visible as black dots inside the eggs.  These aren't recorded well so I'd reduce them all down to either y or n.
+    n=not berried (not carrying eggs beneath their tails).  y = berried.  All the other variants of berried state = y relate to the state of the eggs.  For example ye = berried eyed = the eyes of the larvae are visible as black dots inside the eggs.  These aren't recorded well so I'd reduce them all down to either y or n.  
 
 .. image:: imgs/lobster_categorymap.png
 
